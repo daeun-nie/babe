@@ -17,7 +17,7 @@
       type="textarea"
       class="prompt"
       :placeholder="$t('suno.placeholder.prompt')"
-      :maxlength="200"
+      :maxlength="290404"
       show-word-limit
     />
   </div>
