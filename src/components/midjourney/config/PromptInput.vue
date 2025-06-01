@@ -11,7 +11,7 @@
       type="textarea"
       class="prompt"
       :placeholder="$t('midjourney.placeholder.prompt')"
-      :maxlength="200"
+      :maxlength="290404"
       show-word-limit
     />
   </div>
